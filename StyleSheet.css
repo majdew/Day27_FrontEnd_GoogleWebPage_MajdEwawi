@@ -61,7 +61,9 @@ table{
     border-top: 1px solid #888888 ;
 }
 
-
+body{
+    position:fixed;
+}
 
 
          
